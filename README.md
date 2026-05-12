@@ -1,7 +1,7 @@
 # Nduhukire
 
-### Ophthalmology Resident & Digital Health Builder
-**Makerere University, Kampala, Uganda**
+### Ophthalmology Resident
+**Makerere University**
 
 > Building digital tools at the intersection of clinical ophthalmology and technology
 
