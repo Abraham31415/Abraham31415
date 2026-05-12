@@ -1,29 +1,65 @@
-# Hi there, I'm Abraham ðŸ‘‹
+# Nduhukire
 
-## About Me
+### Ophthalmology Resident & Digital Health Builder
+**Makerere University, Kampala, Uganda**
 
-- ðŸ¥ Building health-tech solutions for underserved communities
-- ðŸŒ Based in Uganda
-- ðŸ’» Full-stack developer (Python / Django / React)
-- ðŸ”¬ Currently working on **ROP Tracker** â€” a Progressive Web App for retinopathy of prematurity follow-up across Ugandan hospitals
-
-## Projects
-
-### [ROP Tracker](https://github.com/Abraham31415)
-A PWA for tracking retinopathy of prematurity (ROP) screening and follow-up across multiple hospitals in Uganda. Built with Django REST Framework + React.
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-## GitHub Stats
-
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraham31415&show_icons=true&theme=default)
+> Building digital tools at the intersection of clinical ophthalmology and technology
 
 ---
 
-*"Technology should reach everyone, everywhere."*
+## About Me
+
+Ophthalmology resident at Makerere University, Kampala, with clinical interests spanning the full breadth of the specialty â€” from anterior segment to vitreoretinal disease, paediatric eye care, and low vision. Passionate about using technology to solve healthcare delivery problems in Africa. Currently building digital health tools to improve eye care outcomes across Uganda.
+
+---
+
+## Featured Project
+
+### ROP Tracker Uganda
+
+Uganda's first digital platform for coordinating retinopathy of prematurity (ROP) screening and follow-up across a hospital network.
+
+| Feature | Detail |
+|---|---|
+| **Problem solved** | Prevents loss to follow-up of premature babies by auto-scheduling appointments |
+| **SMS reminders** | Escalating reminders to parents in 5 languages: English, Luganda, Runyankole, Acholi, Ateso |
+| **Scale** | Tracks outcomes, bilateral exam findings, visual function, and referrals across 50+ hospitals |
+| **Access roles** | NICU nurses, ophthalmologists, hospital coordinators, central coordinators |
+| **Live app** | [rop-tracker.vercel.app](https://rop-tracker.vercel.app) |
+
+**Built with:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Africa's Talking](https://img.shields.io/badge/Africa's%20Talking-FF6600?style=flat)
+
+---
+
+## Clinical Interests
+
+| | |
+|---|---|
+| Retina & vitreoretinal disease | Paediatric ophthalmology & ROP |
+| Anterior segment & cataract | Low vision & rehabilitation |
+| Glaucoma | Digital health & clinical informatics |
+
+---
+
+## Technical Skills
+
+| Area | Detail |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Frameworks** | React, FastAPI |
+| **Database** | PostgreSQL |
+| **Tools** | GitHub, Claude Code, Africa's Talking API |
+| **Focus** | Digital health systems, clinical data, mHealth |
+
+---
+
+## Connect
+
+- Live app: [rop-tracker.vercel.app](https://rop-tracker.vercel.app)
+- Institution: [Makerere University](https://www.mak.ac.ug)
