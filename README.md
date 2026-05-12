@@ -9,7 +9,7 @@
 
 ## About Me
 
-Ophthalmology resident at Makerere University, Kampala, with clinical interests spanning the full breadth of the specialty â€” from anterior segment to vitreoretinal disease, paediatric eye care, and low vision. Passionate about using technology to solve healthcare delivery problems in Africa. Currently building digital health tools to improve eye care outcomes across Uganda.
+Ophthalmology resident at Makerere University, Kampala, with clinical interests spanning the full breadth of the specialty from anterior segment to vitreoretinal disease, paediatric eye care, and low vision. Passionate about using technology to solve healthcare delivery problems in Africa. Currently building digital health tools to improve eye care outcomes across Uganda.
 
 ---
 
@@ -34,28 +34,6 @@ Uganda's first digital platform for coordinating retinopathy of prematurity (ROP
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Africa's Talking](https://img.shields.io/badge/Africa's%20Talking-FF6600?style=flat)
-
----
-
-## Clinical Interests
-
-| | |
-|---|---|
-| Retina & vitreoretinal disease | Paediatric ophthalmology & ROP |
-| Anterior segment & cataract | Low vision & rehabilitation |
-| Glaucoma | Digital health & clinical informatics |
-
----
-
-## Technical Skills
-
-| Area | Detail |
-|---|---|
-| **Languages** | Python, JavaScript |
-| **Frameworks** | React, FastAPI |
-| **Database** | PostgreSQL |
-| **Tools** | GitHub, Claude Code, Africa's Talking API |
-| **Focus** | Digital health systems, clinical data, mHealth |
 
 ---
 
